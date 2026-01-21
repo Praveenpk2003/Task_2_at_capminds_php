@@ -212,5 +212,6 @@ Correct vital status
 
 Recursive function works
 
+<img width="2540" height="1357" alt="Screenshot 2026-01-19 224514" src="https://github.com/user-attachments/assets/c69510ae-2ba0-4f47-b401-5ce8dc58b89d" />
 
 Clean output
